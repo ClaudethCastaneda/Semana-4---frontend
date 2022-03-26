@@ -1,0 +1,272 @@
+#background{
+    
+}
+#box-left{
+    margin-top: -200px;
+    margin-left: -500px;
+    position: absolute;
+    width: 435px;
+    height: 552px;
+    left: 866px;
+    top: 302px;
+    z-index: 2;
+    background: linear-gradient(180deg, #CB000A 0%, #9E050C 100%);
+    box-shadow: -8px 4px 4px rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+
+}
+#box-top{
+    position: absolute;
+    width: 412px;
+    height: 114px;
+    left: 806px;
+    top: 217px;
+    
+    background: linear-gradient(71.97deg, rgba(101, 0, 3, 0.7) 2.01%, rgba(163, 2, 7, 0.7) 97.99%);
+    box-shadow: -8px 4px 4px rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+
+}
+#circlew{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 833px;
+    top: 240px;
+    margin-top: -220px;
+    margin-left: -800px;
+    background: linear-gradient(180deg, #F8FBFC 0%, #26E1FE 100%);
+    border: 5px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 60%;
+}
+
+#circles1{
+    border-radius: 50px;
+    margin-top: -212px;
+    margin-left: -810px;
+    position: absolute;
+    width: 17.46px;
+    height: 17.46px;
+    left: 933px;
+    top: 231px;
+    
+    background: linear-gradient(180deg, #FF3535 0%, #FF0202 100%);
+    border: 2px solid #000000;
+    box-shadow: inset 0px -4px 4px rgba(134, 0, 0, 0.9);
+    
+}
+#circles2{
+    border-radius: 50px;
+    margin-top: -212px;
+    margin-left: -810px;
+    position: absolute;
+    width: 17.46px;
+    height: 17.46px;
+    left: 963px;
+    top: 231px;
+    
+    background: linear-gradient(180deg, #51FF35 0%, #53FF02 100%);
+    border: 2px solid #000000;
+    box-shadow: inset 0px -4px 4px rgba(0, 0, 0, 0.25);
+}
+#circles3{    
+    border-radius: 50px;
+    margin-top: -212px;
+    margin-left: -810px;
+    position: absolute;
+    width: 17.46px;
+    height: 17.46px;
+    left: 993px;
+    top: 231px;
+    
+    background: linear-gradient(180deg, #FBFF35 0%, #EBFF02 100%);
+    border: 2px solid #000000;
+    box-shadow: inset 0px -4px 4px rgba(0, 0, 0, 0.25);
+}
+#screen1{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+#screen2{
+    margin-top: -215px;
+    margin-left: -807.5px;
+    position: absolute;
+    width: 308px;
+    height: 174px;
+    left: 860px;
+    top: 379px;
+    
+    background: #9AC19E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+#circles4{
+    border-radius: 40px;
+    margin-top: -338px;
+    margin-left: -800px;
+    position: relative;
+    z-index: 52;
+    width: 30px;
+    height: 30px;
+    left: 896px;
+    top: 562px;
+    background: linear-gradient(180deg, #EB1919 0%, #CA0505 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px -4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#rec1{
+    margin-top: -200px;
+    margin-left: -780px;
+    position: absolute;
+    width: 40px;
+    height: 6px;
+    left: 1049px;
+    top: 562px;
+    background: #000000;
+}
+#rec2{
+    margin-top: -200px;
+    margin-left: -730px;
+    position: absolute;
+    width: 40px;
+    height: 6px;
+    left: 1049px;
+    top: 562px;
+    background: #000000;
+}
+#circles5{
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: -850px;
+    position: relative;
+    z-index: 3;
+    width: 70px;
+    height: 70px;
+    left: 896px;
+    top: 562px;
+    background: linear-gradient(180deg, #005AC5 0%, #0040E4 100%);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 2px -4px 4px rgba(0, 0, 0, 0.26);
+}
+#circles5:hover{
+    background-color: #ffffff;
+    color: #ffffff;
+}
+#recgreen{
+    margin-top: -195px;
+    margin-left: -800px;
+    position: absolute;
+    position: relative;
+    z-index: 3;
+    width: 63px;
+    height: 13px;
+    left: 947px;
+    top: 658px;
+    background: #24BD0B;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 3px -3px 4px rgba(0, 0, 0, 0.43);
+    border-radius: 10px;
+}
+#recred{
+    margin-top: -230px;
+    margin-left: -800px;
+    position: absolute;
+    position: relative;
+    z-index: 3;
+    position: absolute;
+    width: 63px;
+    height: 13px;
+    left: 1026px;
+    top: 658px;
+    
+    background: #FF0C0C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 3px -3px 4px rgba(0, 0, 0, 0.43);
+    border-radius: 10px;
+}
+#recnavy{
+    margin-top: -230px;
+    margin-left: -800px;
+    position: absolute;
+    z-index: 3;
+
+    width: 142px;
+    height: 60px;
+    left: 947px;
+    top: 691px;
+    
+    background: linear-gradient(180deg, #023351 0%, #01012C 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+#recwhite{
+    margin-top: -230px;
+    margin-left: -799px;
+    position: absolute;
+    z-index: 4;
+    width: 117px;
+    height: 36px;
+    left: 958px;
+    top: 703px;
+    
+    background: #FFFFFF;
+    box-shadow: inset 0px -4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+#controlver{
+    margin-top: -230px;
+    margin-left: -800px;
+    position: absolute;
+    z-index: 4;
+
+    width: 28px;
+    height: 85px;
+    left: 1136px;
+    top: 653px;
+    
+    background: #9309FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+#controlhor{
+    margin-top: -285px;
+    margin-left: -771.5px;
+    z-index: 4;
+    position: absolute;
+    width: 28px;
+    height: 85px;
+    left: 1107px;
+    top: 710px;
+
+    background: #9309FF;
+    border-radius: 10px;
+    transform: rotate(-90deg);    
+}
+#cuadros{
+    z-index: 4;
+    position: absolute;
+    width: 61px;
+    height: 58px;
+    left: 1206px;
+    top: 218px;
+    background: #CA0505;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25), inset 7px 0px 8px 2px rgba(0, 0, 0, 0.5), inset -7px 0px 8px 2px rgba(14, 0, 0, 0.5);    
+}
+#divisor{
+    margin-top: 217px;
+    margin-left: 400px;
+}
+#recright{
+    position: relative;
+    margin-top: -506px;
+    margin-left: 420px;
+    z-index: -1;
+}
